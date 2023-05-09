@@ -16,8 +16,9 @@ This is a partial implementation of Ruder et al.'s paper [*Artistic style transf
 
 3. Also make sure you have ```ffmpeg``` installed on your machine.
 4. Open the folder in your terminal and ```cd``` into ```sequence-stylizers```
-5. Run ```npm install``` to install all the necessary npm packages
-6. Lastly run ```npm run dev``` to get a version hosted locally on your machine
+5. Deactivate any active conda environments with ```conda deactivate```
+6. Run ```npm install``` to install all the necessary npm packages
+7. Lastly run ```npm run dev``` to get a version hosted locally on your machine
 
 ## Tweaking
 
