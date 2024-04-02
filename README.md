@@ -2,7 +2,7 @@
 
 Hi! Computing power is expensive and as a result we cannot host a server to do this. BUT - we can tell you how to use our application locally :)
 
-This is a partial implementation of Ruder et al.'s paper [*Artistic style transfer for videos*](https://arxiv.org/pdf/1604.08610.pdf) for a CS1430 final project! The project consists of a Nextjs-based webapp that lets users upload a base video and a style image and which are then run through a python script that outputs the stylized version of their video for the user to download.
+This is a partial implementation of Ruder et al.'s paper [*Artistic style transfer for videos*](https://arxiv.org/pdf/1604.08610.pdf)! The project consists of a Nextjs-based webapp that lets users upload a base video and a style image and which are then run through a python script that outputs the stylized version of their video for the user to download.
 
 ## Installation
 
